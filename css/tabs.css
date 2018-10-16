@@ -1,0 +1,56 @@
+#map .tab {
+    cursor: pointer;
+    font: 1.25em sans-serif;
+    /*fill: black;*/
+
+    /*filter: url(#drop-shadow);*/
+    box-shadow: 0 0 30px 0 rgba(0,0,0,.1) inset; /* shadow around map div */
+}
+
+#map .tab rect {
+    fill-opacity: 0.05;
+    stroke: #b4b4b4;
+    stroke-width: 0.5px;
+}
+
+#map .tab.selected rect  {
+    fill: none;
+    stroke: none;
+}
+
+#map .tab text {
+    fill: #b4b4b4;
+    /*font-size: 13pt;*/
+    /*stroke: #000000;*/
+    /*stroke-width: 0.5px;*/
+}
+
+#map .tab.selected text {
+    fill: #000000;
+    /*font-size: 13pt;*/
+    /*stroke: #000000;*/
+    /*stroke-width: 0.5px;*/
+}
+
+#map .tab text.question {
+    display: none;
+}
+
+#map .tab.selected text.question {
+    display: inline;
+    font-size: 10pt;
+    /*fill: #5c5c5c;*/
+}
+/*#map .tab rect{*/
+    /*fill: black;*/
+    /*fill-opacity: 0.1;*/
+    /*filter: url(#drop-shadow);*/
+/*}*/
+
+#map .tab.hovered {
+
+}
+
+#map .tab.selected {
+    fill: none;
+}

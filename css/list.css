@@ -1,0 +1,22 @@
+#list .country.hovered {
+    cursor: pointer;
+    fill: #b4b4b4;
+    font: 1.25em sans-serif;
+    /*stroke: #b4b4b4;*/
+    /*stroke-width: 0.5px;*/
+    filter: url(#drop-shadow);
+}
+
+#list .country.selected {
+    fill: #000000;
+    font: 1.1em sans-serif;
+    /*stroke: #000000;*/
+    /*stroke-width: 0.5px;*/
+}
+
+#list .country.selected.hovered {
+    fill: #000000;
+    font: 1.25em sans-serif;
+    /*stroke: #000000;*/
+    /*stroke-width: 0.5px;*/
+}

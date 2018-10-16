@@ -1,0 +1,29 @@
+div.map {
+    box-shadow: 0 0 30px 0 rgba(0,0,0,.1) inset; /* shadow around map div */
+}
+
+#map .context {
+    fill: #e6e6e6;
+}
+
+#map .country {
+    pointer-events: all;
+}
+
+#map .country.hovered {
+    cursor: pointer;
+    stroke: #8c8c8c;
+    stroke-width: 2px;
+    filter: url(#drop-shadow);
+}
+
+#map .country.selected {
+    stroke: #000000;
+    stroke-width: 1.5px;
+}
+
+#map .country.selected.hovered {
+    stroke: #000000;
+    stroke-width: 2px;
+}
+

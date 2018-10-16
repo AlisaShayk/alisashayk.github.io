@@ -1,0 +1,28 @@
+#scatter-plot .label {
+    font-size: 10pt;
+}
+
+#scatter-plot .country {
+    fill: none;
+    stroke: #e6e6e6;
+    stroke-width: 1.5px;
+    pointer-events: all; /* every part can be pointed, even empty fill */
+}
+
+#scatter-plot .country.hovered {
+    cursor: pointer;
+    stroke: #b4b4b4;
+    stroke-width: 2px;
+    filter: url(#drop-shadow);
+
+}
+
+#scatter-plot .country.selected {
+    stroke: #000000;
+    stroke-width: 1.5px;
+}
+
+#scatter-plot .country.selected.hovered {
+    stroke: #000000;
+    stroke-width: 2px;
+}

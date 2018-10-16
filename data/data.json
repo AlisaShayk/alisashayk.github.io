@@ -1,0 +1,212 @@
+[
+  {
+    "iso_a2": "BE",
+    "country_name": "Belgium",
+    "social_conservatism": 4,
+    "civil_rights": 17,
+    "education": 3.65,
+    "religiosity": 4.49,
+    "ath": 1.26,
+    "dr": 35
+  },
+  {
+    "iso_a2": "BG",
+    "country_name": "Bulgaria",
+    "social_conservatism": 4,
+    "civil_rights": 6,
+    "education": 3.49,
+    "religiosity": 4.62,
+    "ath": 0.5,
+    "dr": 53
+  },
+  {
+    "iso_a2": "CY",
+    "country_name": "Cyprus",
+    "social_conservatism": 4,
+    "civil_rights": 1,
+    "education": 3.44,
+    "religiosity": 7.08,
+    "ath": 0.51,
+    "dr": 56
+  },
+  {
+    "iso_a2": "CZ",
+    "country_name": "Czech Republic",
+    "social_conservatism": 3,
+    "civil_rights": 9,
+    "education": 3.48,
+    "religiosity": 2.01,
+    "ath": 0.6,
+    "dr": 36
+  },
+  {
+    "iso_a2": "DK",
+    "country_name": "Denmark",
+    "social_conservatism": 1,
+    "civil_rights": 9,
+    "education": 3.93,
+    "religiosity": 4.2,
+    "ath": 1.46,
+    "dr": 31
+  },
+  {
+    "iso_a2": "EE",
+    "country_name": "Estonia",
+    "social_conservatism": 3,
+    "civil_rights": 2,
+    "education": 3.91,
+    "religiosity": 3.48,
+    "ath": 0.17,
+    "dr": 44
+  },
+  {
+    "iso_a2": "FI",
+    "country_name": "Finland",
+    "social_conservatism": 1,
+    "civil_rights": 11,
+    "education": 3.68,
+    "religiosity": 4.97,
+    "ath": 1.01,
+    "dr": 38
+  },
+  {
+    "iso_a2": "FR",
+    "country_name": "France",
+    "social_conservatism": 1,
+    "civil_rights": 6,
+    "education": 3.35,
+    "religiosity": 4.44,
+    "ath": 1.15,
+    "dr": 41
+  },
+  {
+    "iso_a2": "DE",
+    "country_name": "Germany",
+    "social_conservatism": 2,
+    "civil_rights": 20,
+    "education": 3.9,
+    "religiosity": 4.52,
+    "ath": 1.15,
+    "dr": 46
+  },
+  {
+    "iso_a2": "HU",
+    "country_name": "Hungary",
+    "social_conservatism": 3,
+    "civil_rights": 14,
+    "education": 3.36,
+    "religiosity": 4.05,
+    "ath": 0.16,
+    "dr": 45
+  },
+  {
+    "iso_a2": "IE",
+    "country_name": "Ireland",
+    "social_conservatism": 1,
+    "civil_rights": 9,
+    "education": 3.54,
+    "religiosity": 5.01,
+    "ath": 1.22,
+    "dr": 47
+  },
+  {
+    "iso_a2": "IT",
+    "country_name": "Italy",
+    "social_conservatism": 3,
+    "civil_rights": 2.5,
+    "education": 3.25,
+    "religiosity": 5.91,
+    "ath": 0.91,
+    "dr": 54
+  },
+  {
+    "iso_a2": "LT",
+    "country_name": "Lithuania",
+    "social_conservatism": 4,
+    "civil_rights": 3,
+    "education": 3.79,
+    "religiosity": 5.41,
+    "ath": -0.64,
+    "dr": 61
+  },
+  {
+    "iso_a2": "NL",
+    "country_name": "Netherlands",
+    "social_conservatism": 1,
+    "civil_rights": 16,
+    "education": 3.54,
+    "religiosity": 4.54,
+    "ath": 1.46,
+    "dr": 30
+  },
+  {
+    "iso_a2": "PL",
+    "country_name": "Poland",
+    "social_conservatism": 4,
+    "civil_rights": 2,
+    "education": 3.52,
+    "religiosity": 6.25,
+    "ath": 0.3,
+    "dr": 57
+  },
+  {
+    "iso_a2": "PT",
+    "country_name": "Portugal",
+    "social_conservatism": 4,
+    "civil_rights": 15,
+    "education": 2.1,
+    "religiosity": 5.22,
+    "ath": 0.84,
+    "dr": 51
+  },
+  {
+    "iso_a2": "SK",
+    "country_name": "Slovakia",
+    "social_conservatism": 4,
+    "civil_rights": 9,
+    "education": 3.84,
+    "religiosity": 5.97,
+    "ath": 0.08,
+    "dr": 52
+  },
+  {
+    "iso_a2": "SI",
+    "country_name": "Slovenia",
+    "social_conservatism": 3,
+    "civil_rights": 9,
+    "education": 3.39,
+    "religiosity": 4.5,
+    "ath": 0.35,
+    "dr": 53
+  },
+  {
+    "iso_a2": "ES",
+    "country_name": "Spain",
+    "social_conservatism": 3,
+    "civil_rights": 20,
+    "education": 2.79,
+    "religiosity": 4.48,
+    "ath": 1.17,
+    "dr": 38
+  },
+  {
+    "iso_a2": "SE",
+    "country_name": "Sweden",
+    "social_conservatism": 1,
+    "civil_rights": 18,
+    "education": 3.76,
+    "religiosity": 3.17,
+    "ath": 1.35,
+    "dr": 35
+  },
+  {
+    "iso_a2": "GB",
+    "country_name": "United Kingdom",
+    "social_conservatism": 2,
+    "civil_rights": 21,
+    "education": 3.39,
+    "religiosity": 4.13,
+    "ath": 1.12,
+    "dr": 44
+  }
+]

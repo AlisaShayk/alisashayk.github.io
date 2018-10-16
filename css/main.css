@@ -1,0 +1,44 @@
+html body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* remove scrollbars */
+}
+
+div {
+    float: left; /* make div side by side */
+    line-height: 0; /* remove useless pixels below */
+}
+
+svg {
+    font: 1em sans-serif;
+}
+
+text {
+    fill: #b4b4b4;
+    cursor: default;
+}
+
+path {
+    shape-rendering: geometricPrecision;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #b4b4b4;
+    stroke-width: 0.5px;
+}
+
+.axis .tick {
+    font-size: 10pt;
+    cursor: default;
+}
+
+button.ath {
+    /*position:absolute;
+    margin-left: 400px;
+    margin-top: 10px;*/
+    padding: 7px 20px;
+    z-index: 100;
+    font-size: 14pt;
+}
+

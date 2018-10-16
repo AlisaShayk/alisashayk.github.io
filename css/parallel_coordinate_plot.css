@@ -1,0 +1,31 @@
+#parallel-coordinated-plot .axis-label {
+    cursor: move;
+    font-size: 10pt;
+}
+
+#parallel-coordinated-plot .brush .extent {
+    fill-opacity: .10;
+    stroke: #fff;
+}
+
+#parallel-coordinated-plot .country {
+    fill: none;
+    stroke: #e6e6e6;
+    stroke-width: 1.5px;
+}
+
+#parallel-coordinated-plot .country.hovered {
+    stroke: #b4b4b4;
+    stroke-width: 2px;
+    filter: url(#drop-shadow);
+}
+
+#parallel-coordinated-plot .country.selected {
+    stroke: #000000;
+    stroke-width: 1.5px;
+}
+
+#parallel-coordinated-plot .country.selected.hovered {
+    stroke: #000000;
+    stroke-width: 2px;
+}
